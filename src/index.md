@@ -4,7 +4,7 @@ title: Who Am I
 overview: Taishi Naka (lemonadern)
 ---
 
-Web と計算機が好きです。 豊田高専に通っています。
+Web と計算機が好きです。
 
 ## リンク
 
