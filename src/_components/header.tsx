@@ -20,7 +20,7 @@ export const Header = () => {
         >
           <img
             alt="GitHub Icon"
-            class="w-4 max-sm:hidden"
+            class="w-4"
             src="https://cdn.simpleicons.org/github/white"
           />
         </a>

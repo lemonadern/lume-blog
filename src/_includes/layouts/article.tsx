@@ -12,7 +12,7 @@ type Props = {
 const ReportLayout = ({ title, published_at, children }: Props) => {
   return (
     <Base title={title}>
-      <div class="h-1/1">
+      <div class="h-full">
         <ArticleHeader title={title} published_at={published_at} />
         <ArticleSection>
           {children}

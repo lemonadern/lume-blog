@@ -13,7 +13,7 @@ type Props = {
 const ReportLayout = ({ title, overview, page_type, children }: Props) => {
   return (
     <Base title={title + " " + (page_type === undefined ? "" : page_type)}>
-      <div class="h-1/1">
+      <div class="h-full">
         <ReportHeader title={title} subtitle={overview} />
         <ArticleSection>
           {children}
